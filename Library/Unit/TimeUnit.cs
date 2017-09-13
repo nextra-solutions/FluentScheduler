@@ -15,6 +15,7 @@
             _duration = duration;
         }
 
+        /*
         /// <summary>
         /// Sets the interval to milliseconds.
         /// The timing may not be accurated when used with very low intervals.
@@ -23,6 +24,7 @@
         {
             return new MillisecondUnit(_schedule, _duration);
         }
+        */
 
         /// <summary>
         /// Sets the interval to seconds.

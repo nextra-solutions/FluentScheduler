@@ -25,6 +25,7 @@
             return DelayFor(unit.Schedule, interval);
         }
 
+        /*
         /// <summary>
         /// Delays the job for the given interval.
         /// </summary>
@@ -37,6 +38,7 @@
 
             return DelayFor(unit.Schedule, interval);
         }
+        */
 
         /// <summary>
         /// Delays the job for the given interval.
